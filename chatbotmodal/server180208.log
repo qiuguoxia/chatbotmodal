@@ -1,0 +1,65 @@
+2018-02-09 01:47:00.089627: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180209 01:47:00 tf_logging:82] Restoring parameters from ./model/demo
+<class 'bytes'>
+> [I 180209 01:47:00 web:2063] 200 GET /?input=names (192.168.3.6) 459.03ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180209 01:47:04 tf_logging:82] Restoring parameters from ./model/demo
+WARN：词汇不在服务区
+<class 'str'>
+<class 'bytes'>
+> [I 180209 01:47:05 web:2063] 304 GET /?input=name (192.168.3.6) 484.34ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180209 01:47:10 tf_logging:82] Restoring parameters from ./model/demo
+
+<class 'bytes'>
+<class 'bytes'>
+> [I 180209 01:47:11 web:2063] 304 GET /?input=hello (192.168.3.6) 552.49ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180209 01:47:14 tf_logging:82] Restoring parameters from ./model/demo
+hi
+<class 'bytes'>
+<class 'bytes'>
+> [I 180209 01:47:15 web:2063] 304 GET /?input=Hello (192.168.3.6) 505.16ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180209 01:47:28 tf_logging:82] Restoring parameters from ./model/demo
+hi
+<class 'bytes'>
+<class 'bytes'>
+> [I 180209 01:47:28 web:2063] 304 GET /?input=how%20are%20you (192.168.3.6) 523.28ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180209 01:47:32 tf_logging:82] Restoring parameters from ./model/demo
+i am doing well.
+<class 'bytes'>
+<class 'bytes'>
+> [I 180209 01:47:33 web:2063] 304 GET /?input=names (192.168.3.6) 381.69ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180209 01:47:36 tf_logging:82] Restoring parameters from ./model/demo
+WARN：词汇不在服务区
+<class 'str'>
+<class 'bytes'>
+> [I 180209 01:47:37 web:2063] 304 GET /?input=name (192.168.3.6) 508.41ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180209 01:47:40 tf_logging:82] Restoring parameters from ./model/demo
+
+<class 'bytes'>
+<class 'bytes'>
+> [I 180209 01:47:41 web:2063] 304 GET /?input=hi (192.168.3.6) 524.42ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180209 17:50:18 tf_logging:82] Restoring parameters from ./model/demo
+a gyroscope. robots make     is the science fiction python.
+<class 'bytes'>
+<class 'bytes'>
+> [I 180209 17:50:18 web:2063] 304 GET /?input=how%20are%20you (192.168.3.6) 708.15ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180209 17:50:27 tf_logging:82] Restoring parameters from ./model/demo
+i am doing well.
+<class 'bytes'>
+<class 'bytes'>
+> [I 180209 17:50:27 web:2063] 200 GET /?input=how%20is%20you (192.168.3.6) 863.88ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180209 17:50:38 tf_logging:82] Restoring parameters from ./model/demo
+it is the sense of the unix. and terminated.
+<class 'bytes'>
+<class 'bytes'>
+> [I 180209 17:50:39 web:2063] 200 GET /?input=how%20about%20you (192.168.3.6) 884.04ms

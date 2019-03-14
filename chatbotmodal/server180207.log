@@ -1,0 +1,802 @@
+2018-02-07 21:27:53.476757: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180207 21:27:53 tf_logging:82] Restoring parameters from ./model/demo
+<class 'bytes'>
+> Building prefix dict from the default dictionary ...
+[D 180207 21:27:53 __init__:111] Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+[D 180207 21:27:53 __init__:131] Loading model from cache /tmp/jieba.cache
+Loading model cost 0.703 seconds.
+[D 180207 21:27:54 __init__:163] Loading model cost 0.703 seconds.
+Prefix dict has been built succesfully.
+[D 180207 21:27:54 __init__:164] Prefix dict has been built succesfully.
+[I 180207 21:27:54 web:2063] 304 GET /?input=joke (192.168.3.6) 1076.19ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180207 21:28:00 tf_logging:82] Restoring parameters from ./model/demo
+teknolust really robots into the young with the study of
+<class 'bytes'>
+<class 'bytes'>
+> [I 180207 21:28:01 web:2063] 200 GET /?input=name (192.168.3.6) 289.67ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180207 21:28:11 tf_logging:82] Restoring parameters from ./model/demo
+communism that spiderman.
+<class 'bytes'>
+<class 'bytes'>
+> [I 180207 21:28:11 web:2063] 200 GET /?input=breakfast (192.168.3.6) 264.68ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180207 21:28:23 tf_logging:82] Restoring parameters from ./model/demo
+WARN：词汇不在服务区
+<class 'str'>
+<class 'bytes'>
+> [I 180207 21:28:23 web:2063] 304 GET /?input=hello (192.168.3.6) 324.56ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180207 21:28:31 tf_logging:82] Restoring parameters from ./model/demo
+hi
+<class 'bytes'>
+<class 'bytes'>
+> [I 180207 21:28:31 web:2063] 200 GET /?input=what%20is%20your%20name (192.168.3.6) 315.97ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180207 21:32:09 tf_logging:82] Restoring parameters from ./model/demo
+the scientific study or unix.
+<class 'bytes'>
+<class 'bytes'>
+> [I 180207 21:32:09 web:2063] 200 GET /?input=HeLlo (192.168.3.6) 252.98ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180207 21:32:15 tf_logging:82] Restoring parameters from ./model/demo
+WARN：词汇不在服务区
+<class 'str'>
+<class 'bytes'>
+> [I 180207 21:32:15 web:2063] 304 GET /?input=hello (192.168.3.6) 333.91ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180207 21:32:17 tf_logging:82] Restoring parameters from ./model/demo
+hi
+<class 'bytes'>
+<class 'bytes'>
+> [I 180207 21:32:17 web:2063] 200 GET /?input=hi (192.168.3.6) 308.78ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180207 21:32:20 tf_logging:82] Restoring parameters from ./model/demo
+he really robots into the character.
+<class 'bytes'>
+<class 'bytes'>
+> [I 180207 21:32:21 web:2063] 304 GET /?input=hi (192.168.3.6) 320.91ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180207 21:32:26 tf_logging:82] Restoring parameters from ./model/demo
+he really robots into the character.
+<class 'bytes'>
+<class 'bytes'>
+> [I 180207 21:32:27 web:2063] 304 GET /?input=how%20are%20you (192.168.3.6) 323.06ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180207 21:32:32 tf_logging:82] Restoring parameters from ./model/demo
+i am doing well.
+<class 'bytes'>
+<class 'bytes'>
+> [I 180207 21:32:33 web:2063] 200 GET /?input=hI (192.168.3.6) 253.60ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180207 21:32:36 tf_logging:82] Restoring parameters from ./model/demo
+WARN：词汇不在服务区
+<class 'str'>
+<class 'bytes'>
+> [I 180207 21:32:37 web:2063] 304 GET /?input=hello (192.168.3.6) 344.11ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180207 21:32:41 tf_logging:82] Restoring parameters from ./model/demo
+hi
+<class 'bytes'>
+<class 'bytes'>
+> [I 180207 21:32:42 web:2063] 200 GET /?input=Hello (192.168.3.6) 251.54ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180207 21:32:52 tf_logging:82] Restoring parameters from ./model/demo
+WARN：词汇不在服务区
+<class 'str'>
+<class 'bytes'>
+> [I 180207 21:32:53 web:2063] 304 GET /?input=joke (192.168.3.6) 315.20ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180207 21:35:47 tf_logging:82] Restoring parameters from ./model/demo
+teknolust really robots into the young with the study of
+<class 'bytes'>
+<class 'bytes'>
+> [I 180207 21:35:48 web:2063] 304 GET /?input=name (192.168.3.6) 334.47ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180207 21:35:53 tf_logging:82] Restoring parameters from ./model/demo
+communism that spiderman.
+<class 'bytes'>
+<class 'bytes'>
+> [I 180207 21:35:53 web:2063] 200 GET /?input=home (192.168.3.6) 237.45ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180207 21:35:57 tf_logging:82] Restoring parameters from ./model/demo
+WARN：词汇不在服务区
+<class 'str'>
+<class 'bytes'>
+> [I 180207 21:35:57 web:2063] 200 GET /?input=rest (192.168.3.6) 227.47ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180207 21:36:02 tf_logging:82] Restoring parameters from ./model/demo
+WARN：词汇不在服务区
+<class 'str'>
+<class 'bytes'>
+> [I 180207 21:36:03 web:2063] 304 GET /?input=hello (192.168.3.6) 315.57ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180207 21:36:08 tf_logging:82] Restoring parameters from ./model/demo
+hi
+<class 'bytes'>
+<class 'bytes'>
+> [I 180207 21:36:09 web:2063] 304 GET /?input=Hello (192.168.3.6) 239.77ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180209 00:57:19 tf_logging:82] Restoring parameters from ./model/demo
+[E 180209 00:57:20 web:1590] Uncaught exception GET /?input=hi (192.168.3.6)
+    HTTPServerRequest(protocol='http', host='server_seq2seqEn', method='GET', uri='/?input=hi', version='HTTP/1.0', remote_ip='192.168.3.6', headers={'X-Requested-With': 'XMLHttpRequest', 'Connection': 'close', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': '*/*', 'Referer': 'https://awareness.lenovo.com/smallwebsmallEnglish/smallTalk.html', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Host': 'server_seq2seqEn', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36', 'If-None-Match': '"eb19636bdc86a745671a9666bfe83769b76bcb4a"', 'Cookie': '_ga=GA1.2.673393067.1497174576; s_fid=3EB334A903BFC9EE-07AB969EF54F6749; s_vi=[CS]v1|2C7F8275052A1688-40000111200103C2[CE]'})
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1323, in _do_call
+        return fn(*args)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1302, in _run_fn
+        status, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/errors_impl.py", line 473, in __exit__
+        c_api.TF_GetCode(self.status.status))
+    tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [1216,8] rhs shape= [1115,8]
+    	 [[Node: save/Assign_13 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/embedding_attention_decoder/embedding"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/embedding_attention_decoder/embedding, save/RestoreV2_13)]]
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.5/site-packages/tornado-4.5.2-py3.5-linux-x86_64.egg/tornado/web.py", line 1509, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "http_english_chat.py", line 290, in get
+        respon = generateSentence(word1)
+      File "http_english_chat.py", line 245, in generateSentence
+        saver.restore(sess, './model/demo')
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1666, in restore
+        {self.saver_def.filename_tensor_name: save_path})
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 889, in run
+        run_metadata_ptr)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1120, in _run
+        feed_dict_tensor, options, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1317, in _do_run
+        options, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1336, in _do_call
+        raise type(e)(node_def, op, message)
+    tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [1216,8] rhs shape= [1115,8]
+    	 [[Node: save/Assign_13 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/embedding_attention_decoder/embedding"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/embedding_attention_decoder/embedding, save/RestoreV2_13)]]
+    
+    Caused by op 'save/Assign_13', defined at:
+      File "http_english_chat.py", line 241, in <module>
+        encoder_inputs, decoder_inputs, target_weights, outputs, loss, update, saver, learning_rate_decay_op, learning_rate = get_model(feed_previous=True)
+      File "http_english_chat.py", line 164, in get_model
+        saver = tf.train.Saver(tf.global_variables())
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1218, in __init__
+        self.build()
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1227, in build
+        self._build(self._filename, build_save=True, build_restore=True)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1263, in _build
+        build_save=build_save, build_restore=build_restore)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 751, in _build_internal
+        restore_sequentially, reshape)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 439, in _AddRestoreOps
+        assign_ops.append(saveable.restore(tensors, shapes))
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 160, in restore
+        self.op.get_shape().is_fully_defined())
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/ops/state_ops.py", line 276, in assign
+        validate_shape=validate_shape)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/ops/gen_state_ops.py", line 57, in assign
+        use_locking=use_locking, name=name)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/op_def_library.py", line 787, in _apply_op_helper
+        op_def=op_def)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/ops.py", line 2956, in create_op
+        op_def=op_def)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/ops.py", line 1470, in __init__
+        self._traceback = self._graph._extract_stack()  # pylint: disable=protected-access
+    
+    InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [1216,8] rhs shape= [1115,8]
+    	 [[Node: save/Assign_13 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/embedding_attention_decoder/embedding"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/embedding_attention_decoder/embedding, save/RestoreV2_13)]]
+    
+[E 180209 00:57:20 web:2063] 500 GET /?input=hi (192.168.3.6) 215.59ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180209 00:57:27 tf_logging:82] Restoring parameters from ./model/demo
+[E 180209 00:57:27 web:1590] Uncaught exception GET /?input=hi (192.168.3.6)
+    HTTPServerRequest(protocol='http', host='server_seq2seqEn', method='GET', uri='/?input=hi', version='HTTP/1.0', remote_ip='192.168.3.6', headers={'X-Requested-With': 'XMLHttpRequest', 'Connection': 'close', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': '*/*', 'Referer': 'https://awareness.lenovo.com/smallwebsmallEnglish/smallTalk.html', 'Host': 'server_seq2seqEn', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36', 'Cookie': '_ga=GA1.2.673393067.1497174576; s_fid=3EB334A903BFC9EE-07AB969EF54F6749; s_vi=[CS]v1|2C7F8275052A1688-40000111200103C2[CE]', 'Accept-Language': 'zh-CN,zh;q=0.9'})
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1323, in _do_call
+        return fn(*args)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1302, in _run_fn
+        status, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/errors_impl.py", line 473, in __exit__
+        c_api.TF_GetCode(self.status.status))
+    tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [1216] rhs shape= [1115]
+    	 [[Node: save/Assign_3 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/AttnOutputProjection/bias"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/AttnOutputProjection/bias, save/RestoreV2_3)]]
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.5/site-packages/tornado-4.5.2-py3.5-linux-x86_64.egg/tornado/web.py", line 1509, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "http_english_chat.py", line 290, in get
+        respon = generateSentence(word1)
+      File "http_english_chat.py", line 245, in generateSentence
+        saver.restore(sess, './model/demo')
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1666, in restore
+        {self.saver_def.filename_tensor_name: save_path})
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 889, in run
+        run_metadata_ptr)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1120, in _run
+        feed_dict_tensor, options, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1317, in _do_run
+        options, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1336, in _do_call
+        raise type(e)(node_def, op, message)
+    tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [1216] rhs shape= [1115]
+    	 [[Node: save/Assign_3 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/AttnOutputProjection/bias"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/AttnOutputProjection/bias, save/RestoreV2_3)]]
+    
+    Caused by op 'save/Assign_3', defined at:
+      File "http_english_chat.py", line 241, in <module>
+        encoder_inputs, decoder_inputs, target_weights, outputs, loss, update, saver, learning_rate_decay_op, learning_rate = get_model(feed_previous=True)
+      File "http_english_chat.py", line 164, in get_model
+        saver = tf.train.Saver(tf.global_variables())
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1218, in __init__
+        self.build()
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1227, in build
+        self._build(self._filename, build_save=True, build_restore=True)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1263, in _build
+        build_save=build_save, build_restore=build_restore)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 751, in _build_internal
+        restore_sequentially, reshape)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 439, in _AddRestoreOps
+        assign_ops.append(saveable.restore(tensors, shapes))
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 160, in restore
+        self.op.get_shape().is_fully_defined())
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/ops/state_ops.py", line 276, in assign
+        validate_shape=validate_shape)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/ops/gen_state_ops.py", line 57, in assign
+        use_locking=use_locking, name=name)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/op_def_library.py", line 787, in _apply_op_helper
+        op_def=op_def)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/ops.py", line 2956, in create_op
+        op_def=op_def)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/ops.py", line 1470, in __init__
+        self._traceback = self._graph._extract_stack()  # pylint: disable=protected-access
+    
+    InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [1216] rhs shape= [1115]
+    	 [[Node: save/Assign_3 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/AttnOutputProjection/bias"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/AttnOutputProjection/bias, save/RestoreV2_3)]]
+    
+[E 180209 00:57:27 web:2063] 500 GET /?input=hi (192.168.3.6) 207.79ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180209 00:57:38 tf_logging:82] Restoring parameters from ./model/demo
+[E 180209 00:57:38 web:1590] Uncaught exception GET /?input=hi (192.168.3.6)
+    HTTPServerRequest(protocol='http', host='server_seq2seqEn', method='GET', uri='/?input=hi', version='HTTP/1.0', remote_ip='192.168.3.6', headers={'X-Requested-With': 'XMLHttpRequest', 'Connection': 'close', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': '*/*', 'Referer': 'https://awareness.lenovo.com/smallwebsmallEnglish/smallTalk.html', 'Host': 'server_seq2seqEn', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36', 'Cookie': '_ga=GA1.2.673393067.1497174576; s_fid=3EB334A903BFC9EE-07AB969EF54F6749; s_vi=[CS]v1|2C7F8275052A1688-40000111200103C2[CE]', 'Accept-Language': 'zh-CN,zh;q=0.9'})
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1323, in _do_call
+        return fn(*args)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1302, in _run_fn
+        status, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/errors_impl.py", line 473, in __exit__
+        c_api.TF_GetCode(self.status.status))
+    tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [8,1216] rhs shape= [8,1115]
+    	 [[Node: save/Assign_12 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/output_projection_wrapper/kernel"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/output_projection_wrapper/kernel, save/RestoreV2_12)]]
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.5/site-packages/tornado-4.5.2-py3.5-linux-x86_64.egg/tornado/web.py", line 1509, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "http_english_chat.py", line 290, in get
+        respon = generateSentence(word1)
+      File "http_english_chat.py", line 245, in generateSentence
+        saver.restore(sess, './model/demo')
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1666, in restore
+        {self.saver_def.filename_tensor_name: save_path})
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 889, in run
+        run_metadata_ptr)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1120, in _run
+        feed_dict_tensor, options, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1317, in _do_run
+        options, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1336, in _do_call
+        raise type(e)(node_def, op, message)
+    tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [8,1216] rhs shape= [8,1115]
+    	 [[Node: save/Assign_12 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/output_projection_wrapper/kernel"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/output_projection_wrapper/kernel, save/RestoreV2_12)]]
+    
+    Caused by op 'save/Assign_12', defined at:
+      File "http_english_chat.py", line 241, in <module>
+        encoder_inputs, decoder_inputs, target_weights, outputs, loss, update, saver, learning_rate_decay_op, learning_rate = get_model(feed_previous=True)
+      File "http_english_chat.py", line 164, in get_model
+        saver = tf.train.Saver(tf.global_variables())
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1218, in __init__
+        self.build()
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1227, in build
+        self._build(self._filename, build_save=True, build_restore=True)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1263, in _build
+        build_save=build_save, build_restore=build_restore)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 751, in _build_internal
+        restore_sequentially, reshape)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 439, in _AddRestoreOps
+        assign_ops.append(saveable.restore(tensors, shapes))
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 160, in restore
+        self.op.get_shape().is_fully_defined())
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/ops/state_ops.py", line 276, in assign
+        validate_shape=validate_shape)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/ops/gen_state_ops.py", line 57, in assign
+        use_locking=use_locking, name=name)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/op_def_library.py", line 787, in _apply_op_helper
+        op_def=op_def)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/ops.py", line 2956, in create_op
+        op_def=op_def)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/ops.py", line 1470, in __init__
+        self._traceback = self._graph._extract_stack()  # pylint: disable=protected-access
+    
+    InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [8,1216] rhs shape= [8,1115]
+    	 [[Node: save/Assign_12 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/output_projection_wrapper/kernel"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/output_projection_wrapper/kernel, save/RestoreV2_12)]]
+    
+[E 180209 00:57:38 web:2063] 500 GET /?input=hi (192.168.3.6) 207.25ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180209 00:57:49 tf_logging:82] Restoring parameters from ./model/demo
+[E 180209 00:57:49 web:1590] Uncaught exception GET /?input=hello (192.168.3.6)
+    HTTPServerRequest(protocol='http', host='server_seq2seqEn', method='GET', uri='/?input=hello', version='HTTP/1.0', remote_ip='192.168.3.6', headers={'X-Requested-With': 'XMLHttpRequest', 'Connection': 'close', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': '*/*', 'Referer': 'https://awareness.lenovo.com/smallwebsmallEnglish/smallTalk.html', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Host': 'server_seq2seqEn', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36', 'If-None-Match': '"c22b5f9178342609428d6f51b2c5af4c0bde6a42"', 'Cookie': '_ga=GA1.2.673393067.1497174576; s_fid=3EB334A903BFC9EE-07AB969EF54F6749; s_vi=[CS]v1|2C7F8275052A1688-40000111200103C2[CE]'})
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1323, in _do_call
+        return fn(*args)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1302, in _run_fn
+        status, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/errors_impl.py", line 473, in __exit__
+        c_api.TF_GetCode(self.status.status))
+    tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [1216,8] rhs shape= [1115,8]
+    	 [[Node: save/Assign_16 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/rnn/embedding_wrapper/embedding"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/rnn/embedding_wrapper/embedding, save/RestoreV2_16)]]
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.5/site-packages/tornado-4.5.2-py3.5-linux-x86_64.egg/tornado/web.py", line 1509, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "http_english_chat.py", line 290, in get
+        respon = generateSentence(word1)
+      File "http_english_chat.py", line 245, in generateSentence
+        saver.restore(sess, './model/demo')
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1666, in restore
+        {self.saver_def.filename_tensor_name: save_path})
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 889, in run
+        run_metadata_ptr)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1120, in _run
+        feed_dict_tensor, options, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1317, in _do_run
+        options, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1336, in _do_call
+        raise type(e)(node_def, op, message)
+    tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [1216,8] rhs shape= [1115,8]
+    	 [[Node: save/Assign_16 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/rnn/embedding_wrapper/embedding"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/rnn/embedding_wrapper/embedding, save/RestoreV2_16)]]
+    
+    Caused by op 'save/Assign_16', defined at:
+      File "http_english_chat.py", line 241, in <module>
+        encoder_inputs, decoder_inputs, target_weights, outputs, loss, update, saver, learning_rate_decay_op, learning_rate = get_model(feed_previous=True)
+      File "http_english_chat.py", line 164, in get_model
+        saver = tf.train.Saver(tf.global_variables())
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1218, in __init__
+        self.build()
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1227, in build
+        self._build(self._filename, build_save=True, build_restore=True)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1263, in _build
+        build_save=build_save, build_restore=build_restore)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 751, in _build_internal
+        restore_sequentially, reshape)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 439, in _AddRestoreOps
+        assign_ops.append(saveable.restore(tensors, shapes))
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 160, in restore
+        self.op.get_shape().is_fully_defined())
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/ops/state_ops.py", line 276, in assign
+        validate_shape=validate_shape)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/ops/gen_state_ops.py", line 57, in assign
+        use_locking=use_locking, name=name)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/op_def_library.py", line 787, in _apply_op_helper
+        op_def=op_def)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/ops.py", line 2956, in create_op
+        op_def=op_def)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/ops.py", line 1470, in __init__
+        self._traceback = self._graph._extract_stack()  # pylint: disable=protected-access
+    
+    InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [1216,8] rhs shape= [1115,8]
+    	 [[Node: save/Assign_16 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/rnn/embedding_wrapper/embedding"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/rnn/embedding_wrapper/embedding, save/RestoreV2_16)]]
+    
+[E 180209 00:57:49 web:2063] 500 GET /?input=hello (192.168.3.6) 217.77ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180209 01:00:55 tf_logging:82] Restoring parameters from ./model/demo
+[E 180209 01:00:55 web:1590] Uncaught exception GET /?input=hello (192.168.3.6)
+    HTTPServerRequest(protocol='http', host='server_seq2seqEn', method='GET', uri='/?input=hello', version='HTTP/1.0', remote_ip='192.168.3.6', headers={'X-Requested-With': 'XMLHttpRequest', 'Connection': 'close', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': '*/*', 'Referer': 'https://awareness.lenovo.com/smallwebsmallEnglish/smallTalk.html', 'Host': 'server_seq2seqEn', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36', 'Cookie': '_ga=GA1.2.673393067.1497174576; s_fid=3EB334A903BFC9EE-07AB969EF54F6749; s_vi=[CS]v1|2C7F8275052A1688-40000111200103C2[CE]', 'Accept-Language': 'zh-CN,zh;q=0.9'})
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1323, in _do_call
+        return fn(*args)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1302, in _run_fn
+        status, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/errors_impl.py", line 473, in __exit__
+        c_api.TF_GetCode(self.status.status))
+    tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [1216,8] rhs shape= [1115,8]
+    	 [[Node: save/Assign_16 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/rnn/embedding_wrapper/embedding"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/rnn/embedding_wrapper/embedding, save/RestoreV2_16)]]
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.5/site-packages/tornado-4.5.2-py3.5-linux-x86_64.egg/tornado/web.py", line 1509, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "http_english_chat.py", line 290, in get
+        respon = generateSentence(word1)
+      File "http_english_chat.py", line 245, in generateSentence
+        saver.restore(sess, './model/demo')
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1666, in restore
+        {self.saver_def.filename_tensor_name: save_path})
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 889, in run
+        run_metadata_ptr)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1120, in _run
+        feed_dict_tensor, options, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1317, in _do_run
+        options, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1336, in _do_call
+        raise type(e)(node_def, op, message)
+    tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [1216,8] rhs shape= [1115,8]
+    	 [[Node: save/Assign_16 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/rnn/embedding_wrapper/embedding"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/rnn/embedding_wrapper/embedding, save/RestoreV2_16)]]
+    
+    Caused by op 'save/Assign_16', defined at:
+      File "http_english_chat.py", line 241, in <module>
+        encoder_inputs, decoder_inputs, target_weights, outputs, loss, update, saver, learning_rate_decay_op, learning_rate = get_model(feed_previous=True)
+      File "http_english_chat.py", line 164, in get_model
+        saver = tf.train.Saver(tf.global_variables())
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1218, in __init__
+        self.build()
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1227, in build
+        self._build(self._filename, build_save=True, build_restore=True)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1263, in _build
+        build_save=build_save, build_restore=build_restore)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 751, in _build_internal
+        restore_sequentially, reshape)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 439, in _AddRestoreOps
+        assign_ops.append(saveable.restore(tensors, shapes))
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 160, in restore
+        self.op.get_shape().is_fully_defined())
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/ops/state_ops.py", line 276, in assign
+        validate_shape=validate_shape)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/ops/gen_state_ops.py", line 57, in assign
+        use_locking=use_locking, name=name)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/op_def_library.py", line 787, in _apply_op_helper
+        op_def=op_def)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/ops.py", line 2956, in create_op
+        op_def=op_def)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/ops.py", line 1470, in __init__
+        self._traceback = self._graph._extract_stack()  # pylint: disable=protected-access
+    
+    InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [1216,8] rhs shape= [1115,8]
+    	 [[Node: save/Assign_16 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/rnn/embedding_wrapper/embedding"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/rnn/embedding_wrapper/embedding, save/RestoreV2_16)]]
+    
+[E 180209 01:00:55 web:2063] 500 GET /?input=hello (192.168.3.6) 215.46ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180209 01:00:58 tf_logging:82] Restoring parameters from ./model/demo
+[E 180209 01:00:58 web:1590] Uncaught exception GET /?input=hello (192.168.3.6)
+    HTTPServerRequest(protocol='http', host='server_seq2seqEn', method='GET', uri='/?input=hello', version='HTTP/1.0', remote_ip='192.168.3.6', headers={'X-Requested-With': 'XMLHttpRequest', 'Connection': 'close', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': '*/*', 'Referer': 'https://awareness.lenovo.com/smallwebsmallEnglish/smallTalk.html', 'Host': 'server_seq2seqEn', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36', 'Cookie': '_ga=GA1.2.673393067.1497174576; s_fid=3EB334A903BFC9EE-07AB969EF54F6749; s_vi=[CS]v1|2C7F8275052A1688-40000111200103C2[CE]', 'Accept-Language': 'zh-CN,zh;q=0.9'})
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1323, in _do_call
+        return fn(*args)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1302, in _run_fn
+        status, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/errors_impl.py", line 473, in __exit__
+        c_api.TF_GetCode(self.status.status))
+    tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [8,1216] rhs shape= [8,1115]
+    	 [[Node: save/Assign_12 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/output_projection_wrapper/kernel"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/output_projection_wrapper/kernel, save/RestoreV2_12)]]
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.5/site-packages/tornado-4.5.2-py3.5-linux-x86_64.egg/tornado/web.py", line 1509, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "http_english_chat.py", line 290, in get
+        respon = generateSentence(word1)
+      File "http_english_chat.py", line 245, in generateSentence
+        saver.restore(sess, './model/demo')
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1666, in restore
+        {self.saver_def.filename_tensor_name: save_path})
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 889, in run
+        run_metadata_ptr)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1120, in _run
+        feed_dict_tensor, options, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1317, in _do_run
+        options, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1336, in _do_call
+        raise type(e)(node_def, op, message)
+    tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [8,1216] rhs shape= [8,1115]
+    	 [[Node: save/Assign_12 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/output_projection_wrapper/kernel"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/output_projection_wrapper/kernel, save/RestoreV2_12)]]
+    
+    Caused by op 'save/Assign_12', defined at:
+      File "http_english_chat.py", line 241, in <module>
+        encoder_inputs, decoder_inputs, target_weights, outputs, loss, update, saver, learning_rate_decay_op, learning_rate = get_model(feed_previous=True)
+      File "http_english_chat.py", line 164, in get_model
+        saver = tf.train.Saver(tf.global_variables())
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1218, in __init__
+        self.build()
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1227, in build
+        self._build(self._filename, build_save=True, build_restore=True)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1263, in _build
+        build_save=build_save, build_restore=build_restore)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 751, in _build_internal
+        restore_sequentially, reshape)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 439, in _AddRestoreOps
+        assign_ops.append(saveable.restore(tensors, shapes))
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 160, in restore
+        self.op.get_shape().is_fully_defined())
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/ops/state_ops.py", line 276, in assign
+        validate_shape=validate_shape)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/ops/gen_state_ops.py", line 57, in assign
+        use_locking=use_locking, name=name)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/op_def_library.py", line 787, in _apply_op_helper
+        op_def=op_def)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/ops.py", line 2956, in create_op
+        op_def=op_def)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/ops.py", line 1470, in __init__
+        self._traceback = self._graph._extract_stack()  # pylint: disable=protected-access
+    
+    InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [8,1216] rhs shape= [8,1115]
+    	 [[Node: save/Assign_12 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/output_projection_wrapper/kernel"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/output_projection_wrapper/kernel, save/RestoreV2_12)]]
+    
+[E 180209 01:00:58 web:2063] 500 GET /?input=hello (192.168.3.6) 234.47ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180209 01:01:53 tf_logging:82] Restoring parameters from ./model/demo
+[E 180209 01:01:53 web:1590] Uncaught exception GET /?input=hi (192.168.3.6)
+    HTTPServerRequest(protocol='http', host='server_seq2seqEn', method='GET', uri='/?input=hi', version='HTTP/1.0', remote_ip='192.168.3.6', headers={'X-Requested-With': 'XMLHttpRequest', 'Connection': 'close', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': '*/*', 'Referer': 'https://awareness.lenovo.com/smallwebsmallEnglish/smallTalk.html', 'Host': 'server_seq2seqEn', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36', 'Cookie': '_ga=GA1.2.673393067.1497174576; s_fid=3EB334A903BFC9EE-07AB969EF54F6749; s_vi=[CS]v1|2C7F8275052A1688-40000111200103C2[CE]', 'Accept-Language': 'zh-CN,zh;q=0.9'})
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1323, in _do_call
+        return fn(*args)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1302, in _run_fn
+        status, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/errors_impl.py", line 473, in __exit__
+        c_api.TF_GetCode(self.status.status))
+    tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [1216,8] rhs shape= [1115,8]
+    	 [[Node: save/Assign_13 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/embedding_attention_decoder/embedding"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/embedding_attention_decoder/embedding, save/RestoreV2_13)]]
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.5/site-packages/tornado-4.5.2-py3.5-linux-x86_64.egg/tornado/web.py", line 1509, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "http_english_chat.py", line 290, in get
+        respon = generateSentence(word1)
+      File "http_english_chat.py", line 245, in generateSentence
+        saver.restore(sess, './model/demo')
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1666, in restore
+        {self.saver_def.filename_tensor_name: save_path})
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 889, in run
+        run_metadata_ptr)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1120, in _run
+        feed_dict_tensor, options, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1317, in _do_run
+        options, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1336, in _do_call
+        raise type(e)(node_def, op, message)
+    tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [1216,8] rhs shape= [1115,8]
+    	 [[Node: save/Assign_13 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/embedding_attention_decoder/embedding"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/embedding_attention_decoder/embedding, save/RestoreV2_13)]]
+    
+    Caused by op 'save/Assign_13', defined at:
+      File "http_english_chat.py", line 241, in <module>
+        encoder_inputs, decoder_inputs, target_weights, outputs, loss, update, saver, learning_rate_decay_op, learning_rate = get_model(feed_previous=True)
+      File "http_english_chat.py", line 164, in get_model
+        saver = tf.train.Saver(tf.global_variables())
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1218, in __init__
+        self.build()
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1227, in build
+        self._build(self._filename, build_save=True, build_restore=True)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1263, in _build
+        build_save=build_save, build_restore=build_restore)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 751, in _build_internal
+        restore_sequentially, reshape)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 439, in _AddRestoreOps
+        assign_ops.append(saveable.restore(tensors, shapes))
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 160, in restore
+        self.op.get_shape().is_fully_defined())
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/ops/state_ops.py", line 276, in assign
+        validate_shape=validate_shape)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/ops/gen_state_ops.py", line 57, in assign
+        use_locking=use_locking, name=name)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/op_def_library.py", line 787, in _apply_op_helper
+        op_def=op_def)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/ops.py", line 2956, in create_op
+        op_def=op_def)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/ops.py", line 1470, in __init__
+        self._traceback = self._graph._extract_stack()  # pylint: disable=protected-access
+    
+    InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [1216,8] rhs shape= [1115,8]
+    	 [[Node: save/Assign_13 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/embedding_attention_decoder/embedding"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/embedding_attention_decoder/embedding, save/RestoreV2_13)]]
+    
+[E 180209 01:01:53 web:2063] 500 GET /?input=hi (192.168.3.6) 229.43ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180209 01:03:32 tf_logging:82] Restoring parameters from ./model/demo
+[E 180209 01:03:32 web:1590] Uncaught exception GET /?input=hi (192.168.3.6)
+    HTTPServerRequest(protocol='http', host='server_seq2seqEn', method='GET', uri='/?input=hi', version='HTTP/1.0', remote_ip='192.168.3.6', headers={'X-Requested-With': 'XMLHttpRequest', 'Connection': 'close', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': '*/*', 'Referer': 'https://awareness.lenovo.com/smallwebsmallEnglish/smallTalk.html', 'Host': 'server_seq2seqEn', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36', 'Cookie': '_ga=GA1.2.673393067.1497174576; s_fid=3EB334A903BFC9EE-07AB969EF54F6749; s_vi=[CS]v1|2C7F8275052A1688-40000111200103C2[CE]', 'Accept-Language': 'zh-CN,zh;q=0.9'})
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1323, in _do_call
+        return fn(*args)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1302, in _run_fn
+        status, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/errors_impl.py", line 473, in __exit__
+        c_api.TF_GetCode(self.status.status))
+    tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [1216] rhs shape= [1115]
+    	 [[Node: save/Assign_3 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/AttnOutputProjection/bias"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/AttnOutputProjection/bias, save/RestoreV2_3)]]
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.5/site-packages/tornado-4.5.2-py3.5-linux-x86_64.egg/tornado/web.py", line 1509, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "http_english_chat.py", line 290, in get
+        respon = generateSentence(word1)
+      File "http_english_chat.py", line 245, in generateSentence
+        saver.restore(sess, './model/demo')
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1666, in restore
+        {self.saver_def.filename_tensor_name: save_path})
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 889, in run
+        run_metadata_ptr)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1120, in _run
+        feed_dict_tensor, options, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1317, in _do_run
+        options, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1336, in _do_call
+        raise type(e)(node_def, op, message)
+    tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [1216] rhs shape= [1115]
+    	 [[Node: save/Assign_3 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/AttnOutputProjection/bias"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/AttnOutputProjection/bias, save/RestoreV2_3)]]
+    
+    Caused by op 'save/Assign_3', defined at:
+      File "http_english_chat.py", line 241, in <module>
+        encoder_inputs, decoder_inputs, target_weights, outputs, loss, update, saver, learning_rate_decay_op, learning_rate = get_model(feed_previous=True)
+      File "http_english_chat.py", line 164, in get_model
+        saver = tf.train.Saver(tf.global_variables())
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1218, in __init__
+        self.build()
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1227, in build
+        self._build(self._filename, build_save=True, build_restore=True)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1263, in _build
+        build_save=build_save, build_restore=build_restore)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 751, in _build_internal
+        restore_sequentially, reshape)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 439, in _AddRestoreOps
+        assign_ops.append(saveable.restore(tensors, shapes))
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 160, in restore
+        self.op.get_shape().is_fully_defined())
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/ops/state_ops.py", line 276, in assign
+        validate_shape=validate_shape)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/ops/gen_state_ops.py", line 57, in assign
+        use_locking=use_locking, name=name)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/op_def_library.py", line 787, in _apply_op_helper
+        op_def=op_def)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/ops.py", line 2956, in create_op
+        op_def=op_def)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/ops.py", line 1470, in __init__
+        self._traceback = self._graph._extract_stack()  # pylint: disable=protected-access
+    
+    InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [1216] rhs shape= [1115]
+    	 [[Node: save/Assign_3 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/AttnOutputProjection/bias"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/AttnOutputProjection/bias, save/RestoreV2_3)]]
+    
+[E 180209 01:03:32 web:2063] 500 GET /?input=hi (192.168.3.6) 224.43ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180209 01:03:35 tf_logging:82] Restoring parameters from ./model/demo
+[E 180209 01:03:35 web:1590] Uncaught exception GET /?input=hi (192.168.3.6)
+    HTTPServerRequest(protocol='http', host='server_seq2seqEn', method='GET', uri='/?input=hi', version='HTTP/1.0', remote_ip='192.168.3.6', headers={'X-Requested-With': 'XMLHttpRequest', 'Connection': 'close', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': '*/*', 'Referer': 'https://awareness.lenovo.com/smallwebsmallEnglish/smallTalk.html', 'Host': 'server_seq2seqEn', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36', 'Cookie': '_ga=GA1.2.673393067.1497174576; s_fid=3EB334A903BFC9EE-07AB969EF54F6749; s_vi=[CS]v1|2C7F8275052A1688-40000111200103C2[CE]', 'Accept-Language': 'zh-CN,zh;q=0.9'})
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1323, in _do_call
+        return fn(*args)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1302, in _run_fn
+        status, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/errors_impl.py", line 473, in __exit__
+        c_api.TF_GetCode(self.status.status))
+    tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [8,1216] rhs shape= [8,1115]
+    	 [[Node: save/Assign_12 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/output_projection_wrapper/kernel"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/output_projection_wrapper/kernel, save/RestoreV2_12)]]
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.5/site-packages/tornado-4.5.2-py3.5-linux-x86_64.egg/tornado/web.py", line 1509, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "http_english_chat.py", line 290, in get
+        respon = generateSentence(word1)
+      File "http_english_chat.py", line 245, in generateSentence
+        saver.restore(sess, './model/demo')
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1666, in restore
+        {self.saver_def.filename_tensor_name: save_path})
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 889, in run
+        run_metadata_ptr)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1120, in _run
+        feed_dict_tensor, options, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1317, in _do_run
+        options, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1336, in _do_call
+        raise type(e)(node_def, op, message)
+    tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [8,1216] rhs shape= [8,1115]
+    	 [[Node: save/Assign_12 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/output_projection_wrapper/kernel"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/output_projection_wrapper/kernel, save/RestoreV2_12)]]
+    
+    Caused by op 'save/Assign_12', defined at:
+      File "http_english_chat.py", line 241, in <module>
+        encoder_inputs, decoder_inputs, target_weights, outputs, loss, update, saver, learning_rate_decay_op, learning_rate = get_model(feed_previous=True)
+      File "http_english_chat.py", line 164, in get_model
+        saver = tf.train.Saver(tf.global_variables())
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1218, in __init__
+        self.build()
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1227, in build
+        self._build(self._filename, build_save=True, build_restore=True)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1263, in _build
+        build_save=build_save, build_restore=build_restore)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 751, in _build_internal
+        restore_sequentially, reshape)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 439, in _AddRestoreOps
+        assign_ops.append(saveable.restore(tensors, shapes))
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 160, in restore
+        self.op.get_shape().is_fully_defined())
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/ops/state_ops.py", line 276, in assign
+        validate_shape=validate_shape)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/ops/gen_state_ops.py", line 57, in assign
+        use_locking=use_locking, name=name)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/op_def_library.py", line 787, in _apply_op_helper
+        op_def=op_def)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/ops.py", line 2956, in create_op
+        op_def=op_def)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/ops.py", line 1470, in __init__
+        self._traceback = self._graph._extract_stack()  # pylint: disable=protected-access
+    
+    InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [8,1216] rhs shape= [8,1115]
+    	 [[Node: save/Assign_12 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/output_projection_wrapper/kernel"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/output_projection_wrapper/kernel, save/RestoreV2_12)]]
+    
+[E 180209 01:03:35 web:2063] 500 GET /?input=hi (192.168.3.6) 224.76ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180209 01:05:37 tf_logging:82] Restoring parameters from ./model/demo
+[E 180209 01:05:37 web:1590] Uncaught exception GET /?input=hello (10.8.0.74)
+    HTTPServerRequest(protocol='http', host='192.168.3.21:26000', method='GET', uri='/?input=hello', version='HTTP/1.1', remote_ip='10.8.0.74', headers={'Connection': 'keep-alive', 'Host': '192.168.3.21:26000', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36', 'Accept-Language': 'zh-CN,zh;q=0.9'})
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1323, in _do_call
+        return fn(*args)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1302, in _run_fn
+        status, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/errors_impl.py", line 473, in __exit__
+        c_api.TF_GetCode(self.status.status))
+    tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [1216] rhs shape= [1115]
+    	 [[Node: save/Assign_3 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/AttnOutputProjection/bias"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/AttnOutputProjection/bias, save/RestoreV2_3)]]
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.5/site-packages/tornado-4.5.2-py3.5-linux-x86_64.egg/tornado/web.py", line 1509, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "http_english_chat.py", line 290, in get
+        respon = generateSentence(word1)
+      File "http_english_chat.py", line 245, in generateSentence
+        saver.restore(sess, './model/demo')
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1666, in restore
+        {self.saver_def.filename_tensor_name: save_path})
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 889, in run
+        run_metadata_ptr)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1120, in _run
+        feed_dict_tensor, options, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1317, in _do_run
+        options, run_metadata)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 1336, in _do_call
+        raise type(e)(node_def, op, message)
+    tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [1216] rhs shape= [1115]
+    	 [[Node: save/Assign_3 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/AttnOutputProjection/bias"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/AttnOutputProjection/bias, save/RestoreV2_3)]]
+    
+    Caused by op 'save/Assign_3', defined at:
+      File "http_english_chat.py", line 241, in <module>
+        encoder_inputs, decoder_inputs, target_weights, outputs, loss, update, saver, learning_rate_decay_op, learning_rate = get_model(feed_previous=True)
+      File "http_english_chat.py", line 164, in get_model
+        saver = tf.train.Saver(tf.global_variables())
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1218, in __init__
+        self.build()
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1227, in build
+        self._build(self._filename, build_save=True, build_restore=True)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1263, in _build
+        build_save=build_save, build_restore=build_restore)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 751, in _build_internal
+        restore_sequentially, reshape)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 439, in _AddRestoreOps
+        assign_ops.append(saveable.restore(tensors, shapes))
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 160, in restore
+        self.op.get_shape().is_fully_defined())
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/ops/state_ops.py", line 276, in assign
+        validate_shape=validate_shape)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/ops/gen_state_ops.py", line 57, in assign
+        use_locking=use_locking, name=name)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/op_def_library.py", line 787, in _apply_op_helper
+        op_def=op_def)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/ops.py", line 2956, in create_op
+        op_def=op_def)
+      File "/usr/local/lib/python3.5/site-packages/tensorflow/python/framework/ops.py", line 1470, in __init__
+        self._traceback = self._graph._extract_stack()  # pylint: disable=protected-access
+    
+    InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [1216] rhs shape= [1115]
+    	 [[Node: save/Assign_3 = Assign[T=DT_FLOAT, _class=["loc:@embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/AttnOutputProjection/bias"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](embedding_attention_seq2seq/embedding_attention_decoder/attention_decoder/AttnOutputProjection/bias, save/RestoreV2_3)]]
+    
+[E 180209 01:05:37 web:2063] 500 GET /?input=hello (10.8.0.74) 226.36ms
+[W 180209 01:05:37 web:2063] 404 GET /favicon.ico (10.8.0.74) 0.71ms

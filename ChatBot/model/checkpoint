@@ -1,0 +1,2 @@
+model_checkpoint_path: "/root/chatbot/englishbot/ChatBot/model/model"
+all_model_checkpoint_paths: "/root/chatbot/englishbot/ChatBot/model/model"

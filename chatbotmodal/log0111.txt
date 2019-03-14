@@ -1,0 +1,107 @@
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 1.153 seconds.
+Prefix dict has been built succesfully.
+2018-01-11 23:15:12.830258: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180111 23:15:12 tf_logging:82] Restoring parameters from ./model/demo
+<class 'bytes'>
+> [I 180111 23:15:13 web:2063] 200 GET /?input=%E6%97%A9%E5%95%8A (192.168.3.6) 318.51ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180111 23:15:19 tf_logging:82] Restoring parameters from ./model/demo
+给 你 配 新发型 。
+<class 'bytes'>
+<class 'bytes'>
+> [I 180111 23:15:19 web:2063] 304 GET /?input=%E6%97%A9%E5%AE%89 (192.168.3.6) 229.76ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180111 23:15:40 tf_logging:82] Restoring parameters from ./model/demo
+早安
+<class 'bytes'>
+<class 'bytes'>
+> [I 180111 23:15:40 web:2063] 200 GET /?input=%E5%8E%BB%E5%93%AA%E4%BA%86 (192.168.3.6) 309.68ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180111 23:16:19 tf_logging:82] Restoring parameters from ./model/demo
+晚上 好 ， 我要 ？
+<class 'bytes'>
+<class 'bytes'>
+> [I 180111 23:16:19 web:2063] 200 GET /?input=%E5%9C%A8%E5%90%97 (192.168.3.6) 252.26ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180111 23:16:51 tf_logging:82] Restoring parameters from ./model/demo
+请 给 你 。
+<class 'bytes'>
+<class 'bytes'>
+> [I 180111 23:16:51 web:2063] 200 GET /?input=%E4%BD%A0%E5%8E%BB%E5%90%97 (192.168.3.6) 262.44ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180111 23:23:06 tf_logging:82] Restoring parameters from ./model/demo
+啊 ， 让 元
+<class 'bytes'>
+<class 'bytes'>
+> [I 180111 23:23:06 web:2063] 200 GET /?input=%E6%97%A9%E4%B8%8A%E5%90%83%E4%BB%80%E4%B9%88 (192.168.3.6) 190.72ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180111 23:23:33 tf_logging:82] Restoring parameters from ./model/demo
+我们 还 极了
+<class 'bytes'>
+<class 'bytes'>
+> [I 180111 23:23:33 web:2063] 200 GET /?input=%E6%97%A9%E4%B8%8A%E5%90%83%E4%BB%80%E4%B9%88%E4%BA%86 (192.168.3.6) 328.16ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180111 23:24:08 tf_logging:82] Restoring parameters from ./model/demo
+嗯
+<class 'bytes'>
+<class 'bytes'>
+> [I 180111 23:24:09 web:2063] 200 GET /?input=%E6%97%A9%E9%A5%AD%E5%90%83%E7%9A%84%E5%95%A5 (192.168.3.6) 327.52ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180111 23:24:23 tf_logging:82] Restoring parameters from ./model/demo
+我 有 我们 什么 时候
+<class 'bytes'>
+<class 'bytes'>
+> [I 180111 23:24:23 web:2063] 200 GET /?input=%E4%BD%A0%E6%97%A9%E9%A5%AD%E5%90%83%E7%9A%84%E5%95%A5 (192.168.3.6) 308.06ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180111 23:24:40 tf_logging:82] Restoring parameters from ./model/demo
+这 的 ， 要 卖掉
+<class 'bytes'>
+<class 'bytes'>
+> [I 180111 23:24:40 web:2063] 200 GET /?input=%E6%97%A9%E9%A5%AD%E5%90%83%E4%BB%80%E4%B9%88 (192.168.3.6) 342.46ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180111 23:26:18 tf_logging:82] Restoring parameters from ./model/demo
+豆浆 ， 油条
+<class 'bytes'>
+<class 'bytes'>
+> [I 180111 23:26:18 web:2063] 200 GET /?input=%E4%BD%A0%E5%90%83%E4%BB%80%E4%B9%88%E4%BA%86 (192.168.3.6) 231.29ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180113 00:31:58 tf_logging:82] Restoring parameters from ./model/demo
+嗯 ， 你妹
+<class 'bytes'>
+<class 'bytes'>
+> [I 180113 00:31:58 web:2063] 200 GET /?input=%E5%90%83%E5%8F%B8%E9%A9%AC%E4%BA%86 (192.168.3.6) 234.85ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180113 01:09:48 tf_logging:82] Restoring parameters from ./model/demo
+5 好 ， 我要 一杯
+<class 'bytes'>
+<class 'bytes'>
+> [I 180113 01:09:48 web:2063] 304 GET /?input=%E5%90%83%E5%8F%B8%E9%A9%AC%E4%BA%86 (192.168.3.6) 242.61ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180119 19:03:24 tf_logging:82] Restoring parameters from ./model/demo
+5 好 ， 我要 一杯
+<class 'bytes'>
+<class 'bytes'>
+> [I 180119 19:03:25 web:2063] 304 GET /?input=%E5%90%83%E5%8F%B8%E9%A9%AC%E4%BA%86 (192.168.3.6) 275.77ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180119 19:03:33 tf_logging:82] Restoring parameters from ./model/demo
+5 好 ， 我要 一杯
+<class 'bytes'>
+<class 'bytes'>
+> [I 180119 19:03:33 web:2063] 304 GET /?input=%E5%8E%BB%E5%93%AA%E4%BA%86 (192.168.3.6) 214.11ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180119 19:03:47 tf_logging:82] Restoring parameters from ./model/demo
+晚上 好 ， 我要 ？
+<class 'bytes'>
+<class 'bytes'>
+> [I 180119 19:03:47 web:2063] 200 GET /?input=%E5%96%9C%E6%AC%A2%E4%BB%80%E4%B9%88 (192.168.3.6) 221.07ms
+[W 180131 19:14:50 web:2063] 404 GET /_server (192.168.3.6) 0.81ms
+INFO:tensorflow:Restoring parameters from ./model/demo
+[I 180131 19:15:32 tf_logging:82] Restoring parameters from ./model/demo
+圣诞快乐
+<class 'bytes'>
+<class 'bytes'>
+> [I 180131 19:15:32 web:2063] 200 GET / (10.8.0.158) 202.64ms
+[W 180131 19:15:32 web:2063] 404 GET /favicon.ico (10.8.0.158) 0.70ms
